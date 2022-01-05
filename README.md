@@ -1,4 +1,4 @@
-# PHP-SocketProgramming
+# PHP-SocketProgramming English
  
  
 * An application that performs data communication between server and client.
@@ -20,6 +20,9 @@
   
   https://www.youtube.com/watch?v=75CCxIBs4Ak has been used as a source.
   Thank you Alma Mae Bernales.
+ 
+ 
+ # PHP-SocketProgramming Türkçe
  
  
 * Sunucu ve istemci arasında veri iletişimi gerçekleştiren bir uygulama.
